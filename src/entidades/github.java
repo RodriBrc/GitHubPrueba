@@ -7,7 +7,8 @@ public class github {
     private String adress;
     private Integer dni;
     private Integer age;
-
+    private Integer bornAge;
+    
     public github() {
     }
 
