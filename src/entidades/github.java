@@ -10,6 +10,7 @@ public class github {
     private Integer bornAge;
     private String atrib2;
     private String bla;
+    private String pepe;
     
     
     public github() {
