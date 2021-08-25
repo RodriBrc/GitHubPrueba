@@ -9,6 +9,7 @@ public class github {
     private Integer age;
     private Integer bornAge;
     private String atrib2;
+    private String bla;
     
     
     public github() {
