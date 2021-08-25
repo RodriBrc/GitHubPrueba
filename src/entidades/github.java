@@ -8,6 +8,8 @@ public class github {
     private Integer dni;
     private Integer age;
     private Integer bornAge;
+    private String atrib2;
+    
     
     public github() {
     }
