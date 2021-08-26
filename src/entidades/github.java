@@ -12,6 +12,8 @@ public class github {
     private String bla;
     private String pepe;
     private Integer sisters;
+    private String lol;
+    
     
     
     
